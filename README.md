@@ -14,13 +14,14 @@ Feel free to reach out if you have questions or would otherwise like to speak ab
 |:-------:|:---------------------------------:|:---------------------------------------------------:|:------------------------:|:------------------:|:--------------:|
 |  PDSND  | Command Line Essentials           | (No Project - very short class)                     |        (No Review)       |        1:44        |   15 Jun 2021  |
 |  PDSND  | Introduction to SQL               | [Investigate a Relational Database](www.google.com) | [Review](www.google.com) |        61:18       |   9 Jul 2021   |
-|  PDSND  | Introduction to Python            | [Explore US Bikeshare Data](www.google.com)         | [Review](www.google.com) |        43:33       |   17 Jul 2021  |
-|  PDSND  | Introduction to Version Control   | [Post Your Work On Github](www.google.com)          | [Review](www.google.com) |        27:52       |   22 Jul 2021  |
+|  PDSND  | Introduction to Python            | [Explore US Bikeshare Data (*)](www.google.com)         | [Review](www.google.com) |        43:33       |   17 Jul 2021  |
+|  PDSND  | Introduction to Version Control   | [Post Your Work On Github (*)](www.google.com)          | [Review](www.google.com) |        27:52       |   22 Jul 2021  |
 |   DAND  | Welcome to the NanoDegree Program | [Explore Weather Trends](www.google.com)            | [Review](www.google.com) |        4:23        |   3 Aug 2021   |
 |   DAND  | Introduction to Data Analysis     | [Investigate a Dataset](www.google.com)             | [Review](www.google.com) |        71:13       |   16 Aug 2021  |
 |   DAND  | Practical Statistics              | [Analyze A/B Test Results](www.google.com)          | [Review](www.google.com) |        58:12       |   26 Aug 2021  |
 |   DAND  | Data Wrangling                    | [Wrangle and Analyze Data](www.google.com)          | [Review](www.google.com) |        12:34       |   25 Sep 2021  |
 |   DAND  | Data Visualization                | [Communicate Data Findings](www.google.com)         | [Review](www.google.com) |        12:34       |   25 Sep 2021  |
+(NOTE (*): Class 03's project involved writing a program in Python to explore data, and Class 04's project involved putting that program on Github, along with making other improvements. As a result, these two projects link to the same location.)
 
 ## Acknowledgements
 
