@@ -36,7 +36,7 @@ A super useful tool for putting this together was the [Tables Generator](https:/
 Here are my certificates for the two NanoDegree programs I completed at Udacity.
 
 **Programming for Data Science with Python (PDSND):**
-*EMPLOYERS: [click here to confirm my certificate](www.google.com)*
+*EMPLOYERS: [click here to confirm my certificate](https://confirm.udacity.com/9DYLU4DP)*
 Click here to confirm my certificate
 [NEED TO INSERT IMAGE HERE]
 
