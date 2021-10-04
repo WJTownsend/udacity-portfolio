@@ -1,5 +1,6 @@
 # Udacity Introduction to SQL Review
 **Format:** Each of the Udacity classes consists of several lessons, each with a number of "concepts". Instruction is generally provided in short (1-6 minutes) videos, sometimes with supporting text. Video instruction is often followed with supplemental text, if needed, and practical exercises using plugins to the Udacity site. This allows students to perform operations demonstrated in the video lecture without installing additional software on their own computers. Quizzes usually accompany these practical exercises to provide a "check" that students are executing the demonstrated concepts correctly. 
+
 **Prior Experience With Subject:** This was my first class (not counting the very brief "Command Line Essentials" class) in starting the Programming for Data Science with Python NanoDegree, as a prerequisite for the Data Analysis NanoDegree. I came in to it with no experience with SQL at all, just familiarity with manipulating spreadsheets in Excel.
 
 ## Class Grade (1-10): **9**
@@ -9,7 +10,7 @@ There was really only one particular issue that I had with this class. The video
 
 ## Project Grade (1-10): **9**
 ### Project: *Investigate a Relational Database*
-### Number of times project was kicked back for changes: *1*
+### Number of times project was kicked back for changes: **1**
 This project involves taking a new database of video rental data and gives the student an open-ended opportunity to choose their own questions to find the answers to with SQL queries, and to relay their answers in a visual form. These self-generated questions had to meet certain levels of complexity, which necessitated a little creativity on the student's part. I had no idea what to expect here in terms of complexity or involvement going into this, but I was pretty happy with it overall. 
 
 ## Overall Grade (1-10): **9**
