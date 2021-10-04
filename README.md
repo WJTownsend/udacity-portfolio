@@ -46,4 +46,4 @@ Click here to confirm my certificate
 
 **Data Analyst (DAND):**
 *EMPLOYERS: [click here to confirm my certificate](https://confirm.udacity.com/DMC5FMVN)*
-[NEED TO INSERT IMAGE HERE]
+[https://raw.githubusercontent.com/WJTownsend/udacity-portfolio/main/images/20210923DAND.jpg]
