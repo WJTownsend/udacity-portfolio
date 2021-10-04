@@ -39,10 +39,10 @@ Another tremendous thanks goes to [Astral Throb](https://www.youtube.com/c/Astra
 
 Here are my certificates for the two NanoDegree programs I completed at Udacity. 
 
-**Programming for Data Science with Python (PDSND):**
+**Programming for Data Science with Python (PDSND):** <br>
 *EMPLOYERS: [click here to confirm my certificate](https://confirm.udacity.com/9DYLU4DP)*
 <img src="https://raw.githubusercontent.com/WJTownsend/udacity-portfolio/main/images/20210725PDSND.jpg">
 
-**Data Analyst (DAND):**
+**Data Analyst (DAND):** <br>
 *EMPLOYERS: [click here to confirm my certificate](https://confirm.udacity.com/DMC5FMVN)*
 <img src="https://raw.githubusercontent.com/WJTownsend/udacity-portfolio/main/images/20210923DAND.jpg">
