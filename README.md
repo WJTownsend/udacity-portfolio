@@ -1,4 +1,5 @@
 # Udacity Data Analysis NanoDegree Portfolio
+[NEED TO INSERT UDACITY BANNER IMAGE HERE]
 
 ## Description
 
@@ -41,5 +42,5 @@ Click here to confirm my certificate
 [NEED TO INSERT IMAGE HERE]
 
 **Data Analyst (DAND):**
-*EMPLOYERS: [click here to confirm my certificate](www.google.com)*
+*EMPLOYERS: [click here to confirm my certificate](https://confirm.udacity.com/DMC5FMVN)*
 [NEED TO INSERT IMAGE HERE]
