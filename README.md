@@ -1,5 +1,5 @@
 # Udacity Data Analysis NanoDegree Portfolio
-[NEED TO INSERT UDACITY BANNER IMAGE HERE]
+[https://raw.githubusercontent.com/WJTownsend/udacity-portfolio/main/images/UdacityBanner.jpg]
 
 ## Description
 
