@@ -32,9 +32,11 @@ A huge acknowledgement goes out to [@JoleneYao](https://github.com/joleneyao/uda
 
 A super useful tool for putting this together was the [Tables Generator](https://www.tablesgenerator.com/markdown_tables#) for making it easy to make this table, generating it in a GUI and then pasting the output right into the README.md. 
 
+Another tremendous thanks goes to [Astral Throb](https://www.youtube.com/c/AstralThrob/videos) and [Odysseus](https://www.youtube.com/c/OdysseusOfficial/videos) on Youtube for their synthwave mixes that are perfect for having something moderately energetic but not distracting on while doing homework. For all of the time that I spent on these NanoDegree programs, I had their tunes on whenever I could.
+
 ## Certificates
 
-Here are my certificates for the two NanoDegree programs I completed at Udacity.
+Here are my certificates for the two NanoDegree programs I completed at Udacity. 
 
 **Programming for Data Science with Python (PDSND):**
 *EMPLOYERS: [click here to confirm my certificate](https://confirm.udacity.com/9DYLU4DP)*
