@@ -1,5 +1,5 @@
 # Udacity Data Analysis NanoDegree Portfolio
-[https://raw.githubusercontent.com/WJTownsend/udacity-portfolio/main/images/UdacityBanner.jpg]
+<img src="https://raw.githubusercontent.com/WJTownsend/udacity-portfolio/main/images/UdacityBanner.jpg">
 
 ## Description
 
@@ -41,9 +41,8 @@ Here are my certificates for the two NanoDegree programs I completed at Udacity.
 
 **Programming for Data Science with Python (PDSND):**
 *EMPLOYERS: [click here to confirm my certificate](https://confirm.udacity.com/9DYLU4DP)*
-Click here to confirm my certificate
-[https://raw.githubusercontent.com/WJTownsend/udacity-portfolio/main/images/20210725PDSND.jpg]
+<img src="https://raw.githubusercontent.com/WJTownsend/udacity-portfolio/main/images/20210725PDSND.jpg">
 
 **Data Analyst (DAND):**
 *EMPLOYERS: [click here to confirm my certificate](https://confirm.udacity.com/DMC5FMVN)*
-[https://raw.githubusercontent.com/WJTownsend/udacity-portfolio/main/images/20210923DAND.jpg]
+<img src="https://raw.githubusercontent.com/WJTownsend/udacity-portfolio/main/images/20210923DAND.jpg">
