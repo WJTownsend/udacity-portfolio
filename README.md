@@ -19,8 +19,8 @@ Feel free to reach out if you have questions or would otherwise like to speak ab
 |   DAND  | Welcome to the NanoDegree Program | [Explore Weather Trends](www.google.com)            | [Review](www.google.com) |        4:23        |   3 Aug 2021   |
 |   DAND  | Introduction to Data Analysis     | [Investigate a Dataset](www.google.com)             | [Review](www.google.com) |        71:13       |   16 Aug 2021  |
 |   DAND  | Practical Statistics              | [Analyze A/B Test Results](www.google.com)          | [Review](www.google.com) |        58:12       |   26 Aug 2021  |
-|   DAND  | Data Wrangling                    | [Wrangle and Analyze Data](www.google.com)          | [Review](www.google.com) |        12:34       |   25 Sep 2021  |
-|   DAND  | Data Visualization                | [Communicate Data Findings](www.google.com)         | [Review](www.google.com) |        12:34       |   25 Sep 2021  |
+|   DAND  | Data Wrangling                    | [Wrangle and Analyze Data](www.google.com)          | [Review](www.google.com) |        62:19       |   9 Sep 2021  |
+|   DAND  | Data Visualization                | [Communicate Data Findings](www.google.com)         | [Review](www.google.com) |        89:22       |   23 Sep 2021  |
 (NOTE (*): Class 03's project involved writing a program in Python to explore data, and Class 04's project involved putting that program on Github, along with making other improvements. As a result, these two projects link to the same location.)
 
 ## Acknowledgements
