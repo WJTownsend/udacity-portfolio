@@ -1,5 +1,6 @@
 # Udacity Practical Statistics Review
 **Format:** Each of the Udacity classes consists of several lessons, each with a number of "concepts". Instruction is generally provided in short (1-6 minutes) videos, sometimes with supporting text. Video instruction is often followed with supplemental text, if needed, and practical exercises using plugins to the Udacity site. This allows students to perform operations demonstrated in the video lecture without installing additional software on their own computers. Quizzes usually accompany these practical exercises to provide a "check" that students are executing the demonstrated concepts correctly. 
+
 **Prior Experience With Subject:** I had completed a college algebra class and a traditional statistics course on Sophia Learning a few months prior. While statistics was a bit tough, I had taken extensive notes that I thought would be more help in this class. This wasn't really the case though, as this class was very much not a traditional statistics class and was more of a class focused on statistics and programming. 
 
 ## Class Grade (1-10): **1**
@@ -13,7 +14,7 @@ This class was very much a "just try to get through it" type of class. Far more 
 
 ## Project Grade (1-10): **2**
 ### Project: *Analyze A/B Test Results*
-### Number of times project was kicked back for changes: *1*
+### Number of times project was kicked back for changes: **1**
 After a miserable class, I was hopeful that the project would be better. It was, but only in the way that a kick in the shin is better than a kick in the mouth. This project was *highly* structured, in a way that no other project across the PDSND and DAND programs was. Broken into three distinct sections, the project asks you to do very specific things with a dataset and provide very specific answers, which is about what would be expected for a math class. The first problem that arose was that the instructions were very confusingly written, especially in the second and third sections, to such an extent that I had to consult with the Knowledge Forum quite a bit just to understand what was being asked for. 
 
 As it turned out, one of the reasons why the directions were confusing in this section is because they were actually wanting students to perform operations in ways different than what had been shown throughout the class. This was not just in the sense of the vectorized operations vs loops issue addressed above, but actually in the sense of generating other observations about the data. While it is certainly useful to know more than one way to approach or solve a problem, the point of an assessment like this is to verify the student's understanding and knowledge of the material presented in the class. If something was not presented in the class (or a class foundational to the one currently being taken), it hardly seems reasonable or useful to assess the student's knowledge of the unrelated concept. 
