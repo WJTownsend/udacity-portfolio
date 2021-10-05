@@ -8,7 +8,7 @@ As mentioned, this class doesn't really contain any instruction and functions mo
 
 ## Project Grade (1-10): **7**
 ### Project: *Explore Weather Trends*
-### Number of times project was kicked back for changes: *0*
+### Number of times project was kicked back for changes: **0**
 This project involves looking at temperature data going backwards for the world at large and for many large cities across the world (some go back over 200 years) to look at how trends in temperature compare globally and to the nearest city in your local area and throw together a brief presentation on your findings. For any student who had already completed the PDSND program, this should be fairly easy. I liked that the project invites further awareness of trends in global warming. With regard to the project's use as a "skill check" for continuing on in the program, I'm uncertain. The DAND program heavily uses dataframes in pandas and data visualization in various packages (this project directs the student to use Excel), so these skills aren't assessed by the project. If a student struggles with this project, they'll certainly struggle elsewhere in the course, but I'm not confident that a student successfully completing this project is necessarily adequately ready for the rest of this program without doing some serious learning in pandas, in particular. I can't judge this project too harshly for that, but it does make me wonder why it's even present.
 
 ## Overall Grade (1-10): **7**
