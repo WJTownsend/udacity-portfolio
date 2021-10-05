@@ -33,7 +33,7 @@ A huge acknowledgement goes out to [@JoleneYao](https://github.com/joleneyao/uda
 
 A super useful tool for putting this together was the [Tables Generator](https://www.tablesgenerator.com/markdown_tables#) for making it easy to make this table, generating it in a GUI and then pasting the output right into the README.md. 
 
-Another big thank you goes out to [Astral Throb](https://www.youtube.com/c/AstralThrob/videos) and [Odysseus](https://www.youtube.com/c/OdysseusOfficial/videos) on Youtube for their synthwave mixes that are perfect for having something moderately energetic but not distracting on while doing homework. For all of the time that I spent on these NanoDegree programs, I had their tunes on whenever I could.
+Another big thank you goes out to [Astral Throb](https://www.youtube.com/c/AstralThrob/videos) and [Odysseus](https://www.youtube.com/c/OdysseusOfficial/videos) on Youtube for their synthwave mixes that are perfect for having something moderately energetic on while doing homework, without being distracting. For all of the time that I spent on these NanoDegree programs, I had their tunes on whenever I could.
 
 ## Certificates
 
