@@ -1,5 +1,6 @@
 # Udacity Data Visualization Review
 **Format:** Each of the Udacity classes consists of several lessons, each with a number of "concepts". Instruction is generally provided in short (1-6 minutes) videos, sometimes with supporting text. Video instruction is often followed with supplemental text, if needed, and practical exercises using plugins to the Udacity site. This allows students to perform operations demonstrated in the video lecture without installing additional software on their own computers. Quizzes usually accompany these practical exercises to provide a "check" that students are executing the demonstrated concepts correctly. 
+
 **Prior Experience With Subject:** My experience with generating data visualizations prior to this program was in Excel or in math classes. As mentioned previously, each of the DAND projects require polished data visualizations in Python, though the classes did not provide much in the way of direction on how to do this prior to this final class of the NanoDegree. I had learned enough along the way to do some basic pythonic data visualization going into this class, though it still felt very unclear to me.  
 
 ## Class Grade (1-10): **6**
@@ -15,7 +16,7 @@ One thing that this class does do much better than the last few classes in the D
 
 ## Project Grade (1-10): **7**
 ### Project: *Communicate Data Findings*
-### Number of times project was kicked back for changes: *0*
+### Number of times project was kicked back for changes: **0**
 This project was very open ended, requiring students to select a dataset (several are provided, or the student may use one of their own, so long as it meets certain criteria) and then do an exploratory data analysis before providing an explanatory data analysis, complete with slideshow from Jupyter Notebook. I actually found this fairly challenging, as I ended up selecting a dataset about peer-to-peer lending which I really didn't know much about. The absence of any particular goal or structure (or even personal knowledge about P2P lending) led to me doing a *lot* of useless exploratory data analysis. That was somewhat frustrating, but perhaps that was most the realistic part of the entire project! 
 
 In the end, I was fairly happy with the project, especially once I'd explored such to find some interesting patterns in the data and settled on a direction that I wanted to go with my analysis. I actually learned a lot about P2P lending in the process and found the entire thing quite interesting. I did get somewhat frustrated with the project near the end, however, with the process of creating a slide deck in Jupyter Notebook. The project instructions specify using a .tpl template file with nbconvert to create the slide deck, but after doing some research when I couldn't get it to work, I found out that nbconvert hasn't been playing nicely with this template file for months. This is acknowledged on the Knowledge Forum and workarounds are provided by mentors there, but the original problem still persists in the project assignment, creating unnecessary frustration for students.  
